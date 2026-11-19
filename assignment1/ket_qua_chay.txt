@@ -1,0 +1,16 @@
+ASSIGNMENT 1 - TIEN XU LY DU LIEU TITANIC
+Du lieu ban dau: 891 dong, 12 cot
+So dong trung lap theo PassengerId: 0
+
+Gia tri thieu ban dau:
+Age         177
+Cabin       687
+Embarked      2
+
+Sau khi xu ly: 891 dong, 11 cot
+Tong gia tri thieu con lai: 0
+So cot chu va nhan dang: 0
+So nguoi khong song sot: 549
+So nguoi song sot: 342
+Da luu: data/titanic_processed.csv
+Da luu 2 bieu do trong thu muc hinh_anh/
