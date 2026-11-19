@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="699" viewBox="0 0 1260 699">
+<rect width="1260" height="699" rx="22" fill="#101827"/>
+<rect width="1260" height="74" rx="22" fill="#1e293b"/>
+<circle cx="31" cy="31" r="8" fill="#fb7185"/><circle cx="60" cy="31" r="8" fill="#facc15"/><circle cx="89" cy="31" r="8" fill="#4ade80"/>
+<text x="143" y="39" fill="#e2e8f0" font-size="23" font-family="DejaVu Sans Mono, monospace" font-weight="bold">python assignment1.py</text>
+<text x="30" y="128" fill="#93c5fd" font-family="DejaVu Sans Mono, monospace" font-size="22">ASSIGNMENT 1 - TIEN XU LY DU LIEU TITANIC</text>
+<text x="30" y="162" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">Du lieu ban dau: 891 dong, 12 cot</text>
+<text x="30" y="196" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">So dong trung lap theo PassengerId: 0</text>
+<text x="30" y="230" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22"></text>
+<text x="30" y="264" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">Gia tri thieu ban dau:</text>
+<text x="30" y="298" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">Age         177</text>
+<text x="30" y="332" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">Cabin       687</text>
+<text x="30" y="366" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">Embarked      2</text>
+<text x="30" y="400" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22"></text>
+<text x="30" y="434" fill="#a7f3d0" font-family="DejaVu Sans Mono, monospace" font-size="22">Sau khi xu ly: 891 dong, 11 cot</text>
+<text x="30" y="468" fill="#a7f3d0" font-family="DejaVu Sans Mono, monospace" font-size="22">Tong gia tri thieu con lai: 0</text>
+<text x="30" y="502" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">So cot chu va nhan dang: 0</text>
+<text x="30" y="536" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">So nguoi khong song sot: 549</text>
+<text x="30" y="570" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">So nguoi song sot: 342</text>
+<text x="30" y="604" fill="#a7f3d0" font-family="DejaVu Sans Mono, monospace" font-size="22">Da luu: data/titanic_processed.csv</text>
+<text x="30" y="638" fill="#e5e7eb" font-family="DejaVu Sans Mono, monospace" font-size="22">Da luu 2 bieu do trong thu muc hinh_anh/</text>
+</svg>
